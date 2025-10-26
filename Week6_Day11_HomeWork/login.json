@@ -1,0 +1,16 @@
+[
+    {
+        "TCaseId": "TC001",
+        "Username": "DemosalesManager",
+        "Password": "crmsfa",
+        "companyName": "TestLeaf",
+        "firstName": "Malarkodi",
+        "lastName": "R",
+        "sourceMail": "Direct Mail",
+        "marketingCampaign": "DEMO_MKTG_CAMP",
+        "industry": "General Services",
+        "preferredCurrency": "INR - Indian Rupee",
+        "country": "India",
+        "state": "TAMILNADU"
+    }
+]
